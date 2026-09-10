@@ -1,34 +1,76 @@
 # BloodConnect
 
-BloodConnect is a blood donor connection app built with Expo and React Native. It helps users find suitable blood donors and access donor registration and support features.
+<div align="center">
 
-## Project Structure
+### Connect donors. Share hope. Save lives.
 
-- `src/` - Application screens, components, hooks, contexts, and storage helpers
-- `assets/` - Images and media used by the app
-- `scripts/` - Project utility scripts
-- `.vscode/` - Recommended VS Code settings and extensions
+<img src="https://img.shields.io/badge/Expo-React%20Native-4630EB?style=for-the-badge&logo=expo&logoColor=white" alt="Expo and React Native">
+<img src="https://img.shields.io/badge/Status-In%20Development-E53935?style=for-the-badge" alt="In development">
+<img src="https://img.shields.io/badge/Focus-Blood%20Donation-C62828?style=for-the-badge" alt="Blood donation">
 
-## Main Features
+**A focused donor connection app for faster, simpler blood support.**
 
-- Blood donor registration
-- Donor search
-- Blood group based donor matching
-- Benefits information
-- Admin screen
-- Donation support flow
+[Explore the repository](https://github.com/grkarthikeyan/BLOOD-CONNECT-2.0) | [View the source](src)
 
-## Development
+</div>
 
-This project uses Expo. Install the project dependencies and start the Expo development server with:
+---
+
+## Why BloodConnect?
+
+In an emergency, every minute matters. BloodConnect brings donor registration, donor discovery, and support information into one clear experience for communities that need help quickly.
+
+## What is inside?
+
+| Area | Purpose |
+| --- | --- |
+| **Donor registration** | Capture donor details and blood group information |
+| **Find donors** | Help users discover suitable blood donors |
+| **Benefits** | Explain the value of regular blood donation |
+| **Admin tools** | Provide a dedicated management view |
+| **Donation support** | Guide users through the donation flow |
+
+## Project Map
+
+```text
+src/
+|- app/          Screens and navigation routes
+|- components/   Reusable interface components
+|- contexts/     Shared application state
+|- hooks/        Theme and device helpers
+`- lib/          Local storage utilities
+
+assets/          Images and media for the app
+scripts/         Project utility scripts
+```
+
+## Run Locally
+
+This project is built with Expo and React Native.
 
 ```bash
 npm install
 npx expo start
 ```
 
-Use the Expo Go app or an available simulator to run the application.
+Open the project with Expo Go or an available simulator.
+
+## Built For
+
+<div align="center">
+
+`DONORS`  +  `VOLUNTEERS`  +  `COMMUNITIES`  =  `A STRONGER BLOOD NETWORK`
+
+</div>
 
 ## Repository
 
-GitHub: https://github.com/grkarthikeyan/BLOOD-CONNECT-2.0
+https://github.com/grkarthikeyan/BLOOD-CONNECT-2.0
+
+---
+
+<div align="center">
+
+### Every donation can become someone's tomorrow.
+
+</div>
