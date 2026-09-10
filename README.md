@@ -1,4 +1,4 @@
-# BloodConnect 2.O
+# BLOOD CONNECT 2.O
 
 <div align="center">
 
