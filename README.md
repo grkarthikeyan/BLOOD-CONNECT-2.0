@@ -16,7 +16,7 @@
 
 ---
 
-## Why BloodConnect?
+## Why BloodConnect 2.O?
 
 In an emergency, every minute matters. BloodConnect brings donor registration, donor discovery, and support information into one clear experience for communities that need help quickly.
 
